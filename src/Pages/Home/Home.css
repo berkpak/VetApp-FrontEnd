@@ -1,0 +1,7 @@
+.home-container {
+  background-image: url('../../assets/img/vet-home.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 90vh;
+  background-size: 60%;
+}
